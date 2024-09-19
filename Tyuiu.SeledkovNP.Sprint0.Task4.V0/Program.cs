@@ -14,6 +14,7 @@ namespace Tyuiu.SeledkovNP.Sprint0.Task4.V0
 
             Console.WriteLine(DataService.Division(10, 5));              // ( / )
 
+
             Console.ReadKey();
         }
     }
